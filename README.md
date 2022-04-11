@@ -58,6 +58,13 @@
 ![image](https://user-images.githubusercontent.com/103022040/162720368-e951d892-db75-4077-828d-3f3f3644f7ca.png)
 - #### pushing from remote
 ![image](https://user-images.githubusercontent.com/103022040/162721477-3cee9f65-8178-4073-ab87-301967c7c5a8.png)
+- #### inspecting from remote
+![image](https://user-images.githubusercontent.com/103022040/162722946-05f21a05-158a-4b4e-bc20-523a62e7d618.png)
+- #### Removing and Renaming Remotes
+![image](https://user-images.githubusercontent.com/103022040/162723309-246a0312-985f-43e4-a328-b79ecbc2168d.png)
+- ## Branch management in Git
+- ![image](https://user-images.githubusercontent.com/103022040/162729236-cead029b-ab67-44f2-a234-b99ed6a55714.png)
+
 
 
 
