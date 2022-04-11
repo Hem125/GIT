@@ -54,7 +54,11 @@
 ![image](https://user-images.githubusercontent.com/103022040/162711246-9c8348c0-e025-4437-b97f-710d9f3aa005.png)\
 - #### fetching from remote
 ![image](https://user-images.githubusercontent.com/103022040/162717024-9a93e2bb-0e5a-468d-a306-51f5c08ac587.png)
-- 
+- #### pulling from remote
+![image](https://user-images.githubusercontent.com/103022040/162720368-e951d892-db75-4077-828d-3f3f3644f7ca.png)
+- #### pushing from remote
+![image](https://user-images.githubusercontent.com/103022040/162721477-3cee9f65-8178-4073-ab87-301967c7c5a8.png)
+
 
 
 
