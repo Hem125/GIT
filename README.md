@@ -52,6 +52,9 @@
 ![image](https://user-images.githubusercontent.com/103022040/162706854-9a59e4db-c6e2-4b5a-907d-e9c375329c3c.png)
 - #### Changing your last commit
 ![image](https://user-images.githubusercontent.com/103022040/162711246-9c8348c0-e025-4437-b97f-710d9f3aa005.png)\
+- #### fetching from remote
+![image](https://user-images.githubusercontent.com/103022040/162717024-9a93e2bb-0e5a-468d-a306-51f5c08ac587.png)
+- 
 
 
 
