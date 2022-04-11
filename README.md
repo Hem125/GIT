@@ -42,4 +42,16 @@
 ![image](https://user-images.githubusercontent.com/103022040/162677825-79f02b04-15da-4789-b730-db7ccece891e.png)
 ### *Staging our modified files*
 ![image](https://user-images.githubusercontent.com/103022040/162685854-d41ed7c5-8fa8-457a-a05b-5060d794a4c7.png)
+- #### Unstaged changes are changes that are not tracked by the Git
+![image](https://user-images.githubusercontent.com/103022040/162699705-93cf9365-c839-4e0a-b964-cae9f4921cf5.png)
+- #### Adding and committing can change it to staged area
+![image](https://user-images.githubusercontent.com/103022040/162700902-fe6e7870-7e30-470b-9157-47e51c2c575f.png)
+- #### Commit change by adding file than commit
+![image](https://user-images.githubusercontent.com/103022040/162705833-cb066b95-6933-4ff1-ab14-1fa9307789b2.png)
+- #### We can remove file in git using rm command
+![image](https://user-images.githubusercontent.com/103022040/162706854-9a59e4db-c6e2-4b5a-907d-e9c375329c3c.png)
+- #### Changing your last commit
+![image](https://user-images.githubusercontent.com/103022040/162711246-9c8348c0-e025-4437-b97f-710d9f3aa005.png)\
+
+
 
