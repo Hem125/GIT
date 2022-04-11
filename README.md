@@ -64,6 +64,10 @@
 ![image](https://user-images.githubusercontent.com/103022040/162723309-246a0312-985f-43e4-a328-b79ecbc2168d.png)
 - ## Branch management in Git
 - ![image](https://user-images.githubusercontent.com/103022040/162729236-cead029b-ab67-44f2-a234-b99ed6a55714.png)
+- #### create remote branch
+![image](https://user-images.githubusercontent.com/103022040/162733932-3a200669-a1a0-4a94-bf6f-a5670e2c1547.png)
+- #### delete remote branch
+![image](https://user-images.githubusercontent.com/103022040/162735003-c1038f53-f4b3-44e9-8334-bfc273a6e196.png)
 
 
 
