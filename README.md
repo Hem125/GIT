@@ -36,3 +36,7 @@
  ![image](https://user-images.githubusercontent.com/103022040/162674660-11529647-8b02-4518-a848-b19d1b8aa2b2.png)-
 - ##### git commit command record the changes made to the files to a local repository
  ![image](https://user-images.githubusercontent.com/103022040/162675641-0c2d194f-fd80-4fc8-b1ca-5c754ff79d11.png)
+- #### git branch command to add a new branch. The git branch command lets you create, list, rename, and delete branches.
+![image](https://user-images.githubusercontent.com/103022040/162676619-df677c7f-501d-4a77-a6f5-a6ca75200c94.png)
+- #### To start working in a different branch, use git checkout to switch branches.
+![image](https://user-images.githubusercontent.com/103022040/162677825-79f02b04-15da-4789-b730-db7ccece891e.png)
