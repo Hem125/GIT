@@ -24,4 +24,15 @@
 - ### Architecture of git
 ![MicrosoftTeams-image (1)](https://user-images.githubusercontent.com/103022040/162670654-11839646-2480-4ac2-aaa2-3206f506f6c2.png)
 ## *Working with various commands in GIT* 
-- ##
+- #### Git config command for confriguration of username and email address
+![image](https://user-images.githubusercontent.com/103022040/162672236-340997bc-dc0b-4f12-8959-89cc6613ff82.png)
+- #### GitInit command turns a directory into an empty Git repository. This is the first step in creating a repository.
+![image](https://user-images.githubusercontent.com/103022040/162672895-11ea242b-245d-4042-8fbb-7a317aa4dc14.png)
+- #### Touch command to create an empty file in git
+![image](https://user-images.githubusercontent.com/103022040/162673699-128cf72a-11b9-41b4-b0c7-e7e1650a37aa.png)
+- #### Git add command to add files in to the staging area for Git.
+![image](https://user-images.githubusercontent.com/103022040/162673895-96f5621c-b670-4ac0-9c17-9a33532e8501.png)
+ - #### Git status commands returns the state of the repository. git status will return the current working branch. 
+ ![image](https://user-images.githubusercontent.com/103022040/162674660-11529647-8b02-4518-a848-b19d1b8aa2b2.png)-
+- ##### git commit command record the changes made to the files to a local repository
+ ![image](https://user-images.githubusercontent.com/103022040/162675641-0c2d194f-fd80-4fc8-b1ca-5c754ff79d11.png)
