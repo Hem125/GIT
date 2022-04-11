@@ -40,3 +40,6 @@
 ![image](https://user-images.githubusercontent.com/103022040/162676619-df677c7f-501d-4a77-a6f5-a6ca75200c94.png)
 - #### To start working in a different branch, use git checkout to switch branches.
 ![image](https://user-images.githubusercontent.com/103022040/162677825-79f02b04-15da-4789-b730-db7ccece891e.png)
+### *Staging our modified files*
+![image](https://user-images.githubusercontent.com/103022040/162685854-d41ed7c5-8fa8-457a-a05b-5060d794a4c7.png)
+
